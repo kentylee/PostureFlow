@@ -62,7 +62,7 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 ollama pull qwen3:4b-instruct
 python .\postureflow_v3.py
-
+```
 
 RUNNING POSTUREFLOW
 ===================

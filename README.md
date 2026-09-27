@@ -53,8 +53,9 @@ pip install -r requirements.txt
 
 ollama pull qwen3:4b-instruct
 
-complete copy-paste sequence:
+### Complete copy-paste sequence
 
+```powershell
 py -3.11 -m venv venv311
 .\venv311\Scripts\Activate.ps1
 python -m pip install --upgrade pip

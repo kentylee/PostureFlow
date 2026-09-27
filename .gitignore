@@ -1,0 +1,12 @@
+venv311/
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+audio_tests/
+screenshots/
+postureflow_multimodal_log*.csv
+
+.DS_Store
+Thumbs.db

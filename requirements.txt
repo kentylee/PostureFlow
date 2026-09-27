@@ -1,0 +1,6 @@
+﻿faster-whisper==1.2.1
+mediapipe==0.10.14
+numpy==2.4.6
+opencv-contrib-python==5.0.0.93
+sounddevice==0.5.6
+soundfile==0.14.0
